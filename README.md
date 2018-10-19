@@ -1,6 +1,9 @@
 Trusted cross build
 ===================
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/trusted-cross-build.svg)](https://www.guardrails.io)
+
+
 **The author is a jury member, this project is out of the hackathon**
 
 Cross compilation image tools for Docker trusted build (POC)
